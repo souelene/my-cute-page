@@ -1,0 +1,86 @@
+*{
+	font-family: "Oswald";
+}
+
+li{
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+	padding: 30px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.centrar{
+	text-align: center;
+}
+
+.fondo{
+	background-image: url(../images/background.jpg);
+	height:500px;
+}
+
+.box-1{
+	text-align:center;
+	padding-top:100px;
+	color:white;
+	font-size: 28px;
+}
+
+.fondo-2{
+	background-image: url(../images/tile1.png);
+	height:400px;	
+}
+.box-2{
+	padding-top:20px;
+}
+
+.fotito{
+	float: left;
+	padding: 2px;
+	border:1px solid black;
+}
+
+.margen{
+	padding-left: 300px;		
+}
+
+
+.box-3{
+	padding: 30px;
+	color:#8f03e3; 
+}
+
+.box-4{
+	padding: 40px;
+	color:#8f03e3; 
+}
+
+.fotito-1{
+	padding: 3px;
+	border: 2px solid #8f03e3;
+	border-radius: 100%;
+	width:100%;
+}
+
+.fondo-3{
+	background-image: url(../images/tile2.png);
+	height:300px;
+	margin-top:50px;
+}
+
+.iconos{
+	padding: 20px;
+}
+
+.centrado{
+	margin: 0 auto;
+	width: 515px;
+}
+
+.box-5{
+	padding: 30px;
+	color:#8f03e3; 
+}
